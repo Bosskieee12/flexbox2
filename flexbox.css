@@ -1,0 +1,34 @@
+.container{
+    display: flex;
+    border: 10px solid black;
+    justify-content: space-around;
+    height: 90vh;
+  }
+  .box {
+    width: 150px;
+    height: 150px;
+    border-radius: 15px;
+  
+  
+  }
+  
+  
+  #box1 {
+    background-color: rgb(131, 16, 16);
+  }
+  
+  
+  #box2 {
+    background-color: rgb(131, 16, 16);
+  }
+  
+  
+  #box3 {
+    background-color: rgb(131, 16, 16);
+  }
+  
+  
+  #box4 {
+    background-color: rgb(131, 16, 16);
+  }
+  
